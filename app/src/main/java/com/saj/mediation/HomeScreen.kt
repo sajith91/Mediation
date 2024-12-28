@@ -27,7 +27,7 @@ fun HomeScreen() {
             .fillMaxSize()
     ) {
         Column {
-            GreetingSection("Shanika")
+            GreetingSection("Sajith")
             chipSection(listOf("Sweet Sleep", "Insomnia", "Depression", "Relax"))
             CurrentMeditation()
         }
